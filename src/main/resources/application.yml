@@ -1,0 +1,3 @@
+espn:
+  base_api: https://sports.core.api.espn.com/v2
+  sports_path: /sports
